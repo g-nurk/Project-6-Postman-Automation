@@ -1,4 +1,4 @@
-Project 6 and also the last project was called: “Automating testing of Jira Clone Back-End API with Postman”. 
+Project 6 at Cerebrum Hub and also the last project was called: “Automating testing of Jira Clone Back-End API with Postman”. 
 
 In this project we mostly used Postman and the existing APIs were: POST authentication; GET, PUT project; GET currentUser; POST, PUT, GET, DELETE issues; POST, PUT, GET, DELETE comments.
 
