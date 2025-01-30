@@ -165,7 +165,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -226,7 +226,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -287,7 +287,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -396,7 +396,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -454,7 +454,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -512,7 +512,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -573,7 +573,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -703,7 +703,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -809,7 +809,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -866,7 +866,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -924,7 +924,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
@@ -982,7 +982,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "{{token}}"
+								"value": "Bearer {{token}}"
 							}
 						],
 						"body": {
